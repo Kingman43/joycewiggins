@@ -9,11 +9,11 @@ p {
 }
 
 a {
-    color: green
+    color: darkturquoise;
 }
 
 a:hover {
-    color: green;
+    color: turquoise;
 }
 
 .text-primary {
